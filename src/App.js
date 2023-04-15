@@ -1,6 +1,7 @@
 import "./App.css";
 import Card from "./Card";
 import Data from "./Data";
+import React from 'react';
 
 function App() {
   const items = Data.map((items) => {
